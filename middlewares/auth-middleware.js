@@ -26,4 +26,4 @@ var checkUserAuth = async (req, res, next) => {
   }
 }
 
-export default checkUserAuth
+export default checkUserAuth;

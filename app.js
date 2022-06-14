@@ -12,7 +12,7 @@ const DATABASE_URL = process.env.DATABASE_URL
 // CORS Policy
 app.use(cors())
 
-// Database Connection
+// Database Connection 
 connectDB(DATABASE_URL)
 
 // JSON
